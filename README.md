@@ -1,7 +1,7 @@
 # Tugas-Pertemuan11_kecerdasan-buatan
 # Segmentasi Pelanggan Menggunakan K-Means Clustering
-## Nama : Mohammad Azmi Abdussyukur
-## NIM : 312210109
+## Nama : Riski Probo sadewo
+## NIM : 312210191
 ## Kelas : TI.22.A.SE.1
 
 Repositori ini berisi implementasi analisis Customer Segmentation menggunakan metode Unsupervised Learning (K-Means Clustering). Proyek ini dibuat untuk memenuhi tugas pertemuan ke-11 mata kuliah Kecerdasan Buatan.
